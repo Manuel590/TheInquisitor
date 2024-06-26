@@ -10,7 +10,8 @@ This script includes information about the last 5 security updates in the HTML r
 
 Please note that the accuracy of this information depends on the availability and accuracy of hotfix data on the system. Additionally, execution of PowerShell scripts may require appropriate execution policies to be set on the system.
 
-Note that this script has a limitation when it is ran on a Virtual machine, it may not provide accurate information regarding the RAM and total storage. 
+Note that this script has a limitation when it is ran on a Virtual machine, it may not provide accurate information regarding the RAM and total storage. Please dowload the The_Inquistor.rar file to access the Script itself and further useful information. 
+
 To avoid any disruption, please ensure that you run the script in a controlled environment. 
 
  ###This script was developed by Manuel Santos, a Senior IT Auditor.
